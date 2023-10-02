@@ -1,6 +1,6 @@
-String hellotag = '''Hi there, Welcome to My Space  ''';
+String hellotag = '''Hi there, Welcome to My Site  ''';
 
-String yourname = "I'm Sudesh Bandara,";
+String yourname = "I'm Denis Levchenko,";
 // String hometitle2 = "A Mobile Application\nDeveloper";
 
 String animationtxt1 = " Mobile Application Developer";
