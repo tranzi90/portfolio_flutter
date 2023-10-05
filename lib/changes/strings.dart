@@ -10,7 +10,7 @@ String animationtxt3 = " Web Developer";
 //
 String contactHeadding = "Let’s try my service now!";
 String contactSubHeadding =
-    "Let’s work together and make everything super cute and super useful.";
+    "Let’s work together and make everything super pretty and useful :)";
 //
 String miniDescription =
     "Freelancer providing services for programming and design content needs. Join me down below and let's get started!";
