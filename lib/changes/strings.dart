@@ -20,7 +20,7 @@ String servicesSubHeading =
 //
 
 String protfolioSubHeading =
-    "Since the beginning of my journey as a designer and developer, I have created digital products for business and consumer use. This is a little bit.";
+    "Since the beginning of my journey as a developer, I have created digital products for business and consumer use. This is a little bit.";
 const String aboutMeHeadline =
     'I\'m Sudesh Bandara, a Mobile App developer, Web developer and UI designer.';
 
