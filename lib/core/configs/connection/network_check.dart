@@ -28,7 +28,7 @@ class NChecking extends StatelessWidget {
         // }
         else {
           // return Container();
-          // TODO
+
           // return const NoConnectionErorr();
           return const MainPage();
         }
